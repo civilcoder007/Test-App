@@ -1,0 +1,2 @@
+This is a remote text file.
+New line is added from the project
